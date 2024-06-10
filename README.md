@@ -1,3 +1,4 @@
+![logo](https://github.com/Onkarg2002/Onkarg2002/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Onkar Ghadigaonkar</h1>
 <h3 align="center">Software Developer | Backend Engineer Python/Django | Data Science </h3>
 
