@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Django, Machine Learning**
 
-- 📫 How to reach me **ghadionkar18@gmail.com**
+- 📫 How to reach me **ghadionkar2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/119DW3n9SOjK-8fe0XkwIqkKL3K_Yd2Uh/view?usp=sharing](https://drive.google.com/file/d/119DW3n9SOjK-8fe0XkwIqkKL3K_Yd2Uh/view?usp=sharing)
 
